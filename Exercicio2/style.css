@@ -1,0 +1,9 @@
+body {
+    background-color: #9bd790; /* Altere a cor conforme desejar */
+    /* Ou use uma imagem de fundo:
+    background-image: url('caminho/para/sua-imagem.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    */
+}

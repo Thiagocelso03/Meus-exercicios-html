@@ -1,0 +1,12 @@
+body {
+    background-image: url('familia.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    color: rgb(70, 57, 57);
+    text-align:left;
+    padding: 50px;
+}
